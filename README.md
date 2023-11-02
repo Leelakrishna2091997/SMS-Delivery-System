@@ -1,13 +1,5 @@
 # SMS-Delivery-System
 
----
-layout: page
-title: SMS Emergency Message Delivery System
-# permalink: /tutorials/week4-react-basics
-# parent: Tutorials
-# nav_order: 1
----
-
 # SMS Messaging System Components
 Message Delivery system comprises of monitor, producer, senders who are responsible for duties such as display the progress of messages and status, to produce the messages on to the synchronised queue and distribute to the senders, consume the message from the queue and process the message correspondingly.   
 
